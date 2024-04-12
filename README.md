@@ -1,6 +1,7 @@
 <div align="center">
 
-### Hi there 👋
+## IT'S ME, HAAAAAAAAAAAAAAAAAZREAL !
+### *True explorers follow the compass in their heart*
   
 ### 🛠 Skills
 <div>
@@ -19,9 +20,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
-
-<br><br>
-
+<br>
 <img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ezreal" />
 
 <!--
