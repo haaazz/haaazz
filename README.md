@@ -6,7 +6,7 @@
 <img src="https://github.com/haaazz/haaazz/assets/90473086/3c2a89b8-cd25-4f47-9c14-e062a96e270f" width="300px">
 <p> ✨ </p>
 <p> 이하림 / Harim Lee / 李 河林 / イ·ハリム / HAZZ </p>
-<p> 좋아하는 것을 마음껏 좋아하기 위해 개발길에 뛰어들었습니다 </p>
+<p> 좋아하는 것을 마음껏, 더 편하게, 더 쉽게 좋아하기 위해 개발길에 뛰어들었습니다 </p>
 
 <br>
 <p> 🌱 </p>
