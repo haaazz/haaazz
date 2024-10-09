@@ -1,3 +1,8 @@
+### 🤗 Nice to meet You!
+<p> 이하림 / Harim Lee / 李 河林 / イ·ハリム / HAZZ </p>
+<br>
+
+<!--
 <div align="center">
 
 ### IT'S ME, HAAAAAAAAAAAAAAAAAZREAL !
@@ -10,6 +15,7 @@
 
 <br>
 <p> 🌱 </p>
+<p> 1998. 07. 03 </p>
 <p> 1998. 07. 03 </p>
 <p> 덕성여자대학교 일어일문학과 졸업 (2024. 02) </p>
 <p> 삼성청년소프트웨어아카데미(SSAFY) 11기 웹 트랙 파이썬 (2024.01 ~) </p>
@@ -46,7 +52,7 @@
 
 <img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ezreal" />
 
-<!--
+
 **haaazz/haaazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
