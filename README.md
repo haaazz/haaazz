@@ -24,7 +24,11 @@
 ### 📜 Certifications
 - **JLPT N1** (2021.02)
 
-
+<h3 align="left">📊 GitHub Stats & Algorithm</h3>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haaazz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ezreal" alt="Solved.ac Profile" />
+</div>
 
 <!--
 <h1 align="center"><strong style="color: #00FF00; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00;">사용자👩‍💼와 함께하는 개발자💻입니다.</strong></h1>
